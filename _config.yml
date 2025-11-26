@@ -1,0 +1,9 @@
+name: Spiracol
+
+title: Spiracol
+
+description: Spiracol
+
+exclude: [en/, pt/, public/, index.html]
+
+theme: jekyll-theme-cayman
